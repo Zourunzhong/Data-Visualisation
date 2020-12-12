@@ -7,4 +7,4 @@ Tableau was used to generate visualisations
 
 Applicants were split up into sucessful applicants ( certified ) and unsucessful applicants (denied ) to further identify the different characteristics influencing such change.
 
-![alt text](https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg)
+![alt text](https://www.logolynx.com/topic/tableau#&gid=1&pid=1)
